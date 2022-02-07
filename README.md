@@ -1,3 +1,7 @@
+<div id="greeter" align="center">
+  <iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre"></a></p>
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/haluk-muhsin-karako%C3%A7-b742a3201/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
