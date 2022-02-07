@@ -1,5 +1,5 @@
 <div id="greeter" align="center">
-  <iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre"></a></p>
+  <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e477wsvj8w2n7gpvjdn8owu52h7xcjnsjx1jmo97btd&rid=giphy.gif&ct=g" alt="Hello There!"/>
 </div>
 
 <div id="badges" align="center">
