@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m Haluk !
 - 👀 I’m mostly interested in DevOps and Linux.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Django.
 
 <!---
 karakoc49/karakoc49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
