@@ -17,7 +17,7 @@
 <hr>
 
 - 👋 Hi, I’m Haluk !
-- 👀 I’m mostly interested in DevOps and Linux.
+- 👀 I’m mostly interested in Flutter and Linux.
 - 🌱 I’m currently learning Django.
 
 <!---
