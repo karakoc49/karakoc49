@@ -17,8 +17,7 @@
 <hr>
 
 - 👋 Hi, I’m Haluk !
-- 👀 I’m mostly interested in Flutter, Linux and Django.
-- 🌱 I’m currently learning React.
+- 👀 I’m mostly interested in Go, Linux and Django.
 
 <!---
 karakoc49/karakoc49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
